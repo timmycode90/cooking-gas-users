@@ -1,0 +1,1 @@
+print("Number of people using cooking gas will be evaluated")
